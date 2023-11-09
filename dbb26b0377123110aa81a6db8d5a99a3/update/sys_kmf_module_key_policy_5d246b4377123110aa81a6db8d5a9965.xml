@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_module_key_policy">
+    <sys_kmf_module_key_policy action="INSERT_OR_UPDATE">
+        <crypto_module display_value="com_glide_snc_app_client">5d986905432021101c0bfea6dab8f2b0</crypto_module>
+        <key_type display_value="Symmetric Data Encryption Key">1c38f324c7003300af4d43c6f097636e</key_type>
+        <last_enforced>2023-11-09 04:56:21</last_enforced>
+        <result>reject</result>
+        <sys_class_name>sys_kmf_module_key_policy</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2023-11-09 04:56:21</sys_created_on>
+        <sys_id>5d246b4377123110aa81a6db8d5a9965</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="testrepo" source="dbb26b0377123110aa81a6db8d5a99a3">dbb26b0377123110aa81a6db8d5a99a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testrepo">dbb26b0377123110aa81a6db8d5a99a3</sys_scope>
+        <sys_update_name>sys_kmf_module_key_policy_5d246b4377123110aa81a6db8d5a9965</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2023-11-09 04:56:21</sys_updated_on>
+    </sys_kmf_module_key_policy>
+</record_update>
